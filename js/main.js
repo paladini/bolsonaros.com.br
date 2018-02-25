@@ -23,7 +23,9 @@ jQuery(function($) {
 			$('.parallax img').css('width', $('.parallax').height() * ratio + 'px');
 		}
 
-		$('header').height($(window).height() + 80 - 450);
+		// $('header').height($(window).height() + 80 - 450);
+		$('header').height($(window).height() + 80);
+
 		$('section .cut').each(function() {
 			if ($(this).hasClass('cut-top'))
 				$(this).css('border-right-width', $(this).parent().width() + "px");
