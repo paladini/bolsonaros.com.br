@@ -516,9 +516,8 @@ section {
 }
 
 .team {
-	margin: 80px 0 0px 0px;
-	/* padding-bottom: 60px; */
-	padding-bottom: 10px;
+	margin: 80px 0;
+	padding-bottom: 60px;
 	background: white;
 	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.07);
 }
@@ -527,7 +526,7 @@ section {
 	height: 250px;
 	padding-top: 60px;
 	opacity: 0;
-	background: rgba(85,98,105, 0.3);
+	background: rgba(0, 168, 255, 0.9);
 	-webkit-transition: opacity 0.45s ease;
 	transition: opacity 0.45s ease;
 }
@@ -1110,3 +1109,8 @@ footer .social-footer li:hover a {
 		padding-top: 0;
 	}
 }
+
+
+
+
+
