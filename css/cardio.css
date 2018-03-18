@@ -526,7 +526,7 @@ section {
 	height: 250px;
 	padding-top: 60px;
 	opacity: 0;
-	background: rgba(0, 168, 255, 0.9);
+	background: rgba(85,98,105, 0.3);
 	-webkit-transition: opacity 0.45s ease;
 	transition: opacity 0.45s ease;
 }
@@ -1109,8 +1109,3 @@ footer .social-footer li:hover a {
 		padding-top: 0;
 	}
 }
-
-
-
-
-
