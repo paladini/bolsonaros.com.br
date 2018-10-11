@@ -15,6 +15,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/1doctecnologia/Desktop/28285498 (1).json",
+			"settings":
+			{
+				"buffer_size": 4823599,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/1doctecnologia/Desktop/json_xanxere.json",
+			"settings":
+			{
+				"buffer_size": 1372618,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -52,6 +71,28 @@
 	],
 	"file_history":
 	[
+		"/Users/1doctecnologia/Desktop/json.json",
+		"/Users/1doctecnologia/Downloads/estrutura_edoc_196_2018-04-27.sql",
+		"/Users/1doctecnologia/.composer/auth.json",
+		"/Users/1doctecnologia/Downloads/dados_edoc_196_2018-04-27.sql",
+		"/Users/1doctecnologia/Desktop/28285498.json",
+		"/Users/1doctecnologia/Desktop/codebeautify.json",
+		"/Users/1doctecnologia/1doc-insights/analysis/2018-04-24-fp-gerador-de-processos-administrativos/gerador-de-processos-administrativos.ipynb",
+		"/Users/1doctecnologia/1doc-insights/analysis/2018-04-24-fp-gerador-de-processos-administrativos/data/raw/data.json",
+		"/Users/1doctecnologia/1doc-insights/analysis/2018-04-24-fp-limpeza-de-assinaturas-em-base-de-demonstracao/data/processed/update.sql",
+		"/Users/1doctecnologia/1doc-insights/analysis/2018-04-20-fp-adicionar-parametro-inacessivel-externamente-para-bases-edoc/data/processed/insert_titan.sql",
+		"/Users/1doctecnologia/1doc-insights/analysis/2018-04-20-fp-adicionar-parametro-inacessivel-externamente-para-bases-edoc/data/processed/insert_ganimedes.sql",
+		"/Users/1doctecnologia/Dropbox/htdocs/1doc/1doc.com.br/wp-content/themes/1doc-c/images/modern/assets-SVG/Asset 4.svg",
+		"/Users/1doctecnologia/1doc-insights/analysis/2018-04-18-fp-atualiza-georeferenciamento-base-de-demonstracao/data/processed/update.sql",
+		"/Users/1doctecnologia/1doc-insights/analysis/2018-04-16-bf-migracao-setor-guaira/migrate_setor.sql",
+		"/Users/1doctecnologia/Desktop/edoc_364_06-04-18_demonstracao_sem_emissoes.csv",
+		"/Users/1doctecnologia/Desktop/edoc_364_06-04-18_demonstracao.csv",
+		"/Users/1doctecnologia/Desktop/1doc-insights/analysis/2018-04-05-fp-criacao-base-demonstracao-mascarada/data/processed/update_queries.sql",
+		"/Users/1doctecnologia/Projects/bolsonaros.com.br/css/cardio.css",
+		"/Users/1doctecnologia/Projects/bolsonaros.com.br/js/main.js",
+		"/Users/1doctecnologia/Projects/bolsonaros.com.br/index.html",
+		"/Users/1doctecnologia/Library/Application Support/Sublime Text 3/Packages/Fuse/UserGuide.txt",
+		"/Users/1doctecnologia/Projects/bolsonaros.com.br/original/index.html",
 		"/Users/1doctecnologia/projects/1doc/1doc-insights/analysis/2018-02-06-fp-update-urls-on-edoc-database/update_query_only_domains.sql",
 		"/Users/1doctecnologia/Dropbox/htdocs/1doc-insights/analysis/2018-02-06-fp-update-urls-on-edoc-database/google_key.txt",
 		"/Users/1doctecnologia/Dropbox/htdocs/1doc-insights/analysis/2018-02-06-fp-update-urls-on-edoc-database/bing_keys",
@@ -67,13 +108,14 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
 		"height": 101.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -81,6 +123,111 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"26.885",
+			"52.38",
+			"26.87",
+			"52.39",
+			"26.88",
+			"52.38",
+			"26.885",
+			"26.8819",
+			"\"R0",
+			"52.3",
+			"52.3742",
+			"26.87",
+			"26.850",
+			"26.8503",
+			"26.877",
+			"26.885",
+			"26.850",
+			"26.885",
+			"26.87",
+			"26.885",
+			"26.8611",
+			"26.885",
+			"26.861",
+			"ERT_13",
+			"ERT_",
+			"26.885",
+			"26.850",
+			"52.38",
+			"26.885",
+			"26.86",
+			"26.861",
+			"26.86",
+			"26.861",
+			"26.86",
+			"26.861",
+			"52.39",
+			"52.398",
+			"26.859",
+			"52.399",
+			"26.853",
+			"26.8536",
+			"52.395",
+			"26.853",
+			"26.8536",
+			"52.3",
+			"26.87",
+			"26.8819",
+			"26.885",
+			"ERT_",
+			"52.39",
+			"52.3903",
+			"26.885",
+			"R01 ",
+			"26.87",
+			"RSV_01",
+			"26.853",
+			"26.8",
+			"26.86",
+			"26.861",
+			"26.8611",
+			"26.853",
+			"26.859",
+			"26.850",
+			"CSB_01",
+			"26.877",
+			"52.390",
+			"26.853",
+			"26.87",
+			"26.861",
+			"26.881",
+			"CTR_03",
+			"CTR ",
+			"ETR ",
+			"ETR",
+			"52.390",
+			"26.88",
+			"ERT_00",
+			"52.40",
+			"26.87",
+			"CSB_01",
+			"Poço",
+			"Poço 03",
+			"CSB_01",
+			"CSB_",
+			"FIXED",
+			"R08",
+			"RSV-2",
+			"RSV",
+			"RSV02",
+			"Forquilhinha",
+			"ARIS",
+			"CASAN",
+			"edoc_3",
+			"edoc_3 ",
+			"},",
+			", ",
+			"{",
+			"latitude = \"",
+			"`",
+			" `",
+			"gray-bg",
+			"height",
+			"introheight",
+			"intro",
+			"#intro"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -88,6 +235,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Demonstração",
+			"Divisão de Regulação e Fiscalização (DRF) da Prefeitura Municipal de Demonstração",
+			"CDASAN",
+			"',",
+			"'"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -104,8 +256,68 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/1doctecnologia/Desktop/28285498 (1).json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4823599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4823599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 43410328.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/1doctecnologia/Desktop/json_xanxere.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1372618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18873,
+								18879
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6970.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
