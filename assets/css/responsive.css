@@ -1,0 +1,178 @@
+/* Extra small devices (phones, less than 768px) */
+@media (max-width : 766px) {
+	
+	/*home section*/
+	.intro h1 {
+	  font-size: 2.5em;
+	}
+	/*stories section*/
+	.timeline>li {
+		margin-bottom: 50px;
+	}
+
+	/*twitter-section*/
+	.twitter-feed .tt-overlay {
+	  padding: 50px 20px;
+	}
+
+	/*reformation-section*/
+	#filter li a {
+	  padding: 6px 10px;
+	  font-weight: 300;
+	}
+	/*campaign-section*/
+	.campaign-scoop {
+	   padding: 25px 25px 15px;
+	}
+	.campaign-scoop .start-date {
+	  margin-bottom: 25px;
+	}
+	.countdown-wrapper {
+	  margin-bottom: 10px;
+	}
+	.countdown li {
+	  margin-right: 30px;
+	}
+
+	/*twitter-section*/
+	.social-counter {
+	  padding: 50px 30px;
+	}
+
+	/*donation-section*/
+	.donation-intro {
+	   padding: 70px 30px 50px 30px;
+	}
+
+	/*newsletter-section*/
+	.subscribe-form input[type=email] {
+	  width: 100%;
+	}
+	.subscribe-form button {
+	  margin-left: 0;
+	  width: 100%;
+	}
+}
+
+/* Landscape Mobile */
+@media only screen and (min-width : 480px) and (max-width : 767px) {
+
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width : 768px) and (max-width : 991px) {
+
+	/*navigation*/
+	.navbar-brand {
+	  padding: 7px 15px;
+	}
+	.navbar-brand img{
+	  width: 120px;
+	}
+	.navbar .nav>li {
+	  padding: 0 9px;
+	}
+	.sticky.navbar .nav>li {
+	  padding: 0 8px;
+	}
+	.navbar-default .navbar-nav>li>a {
+	  font-size: 11px;
+	}
+	
+	/*about-section*/
+	.video-wrap iframe {
+	  height: 400px;
+	}
+
+	/*stories section*/
+	.timeline>li {
+		margin-bottom: 50px;
+	}
+
+	/*abilities-section*/
+	#ability .nav>li>a {
+	  padding: 10px 8px;
+	  font-weight: 300;
+	}
+
+	/*donation-section*/
+	.donation-intro {
+	  padding: 70px 50px 60px 40px;
+	}
+
+}
+
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width : 992px) and (max-width : 1199px) {
+	/*stories section*/
+	.timeline>li{
+		margin-bottom: -40px;
+	}
+	/*spotlight-section*/
+	.tt-effect figcaption .content {
+		padding: 20px 20px 30px;
+	}
+	.tt-effect figcaption .content p {
+	  font-size: 12px;
+	}
+
+	/*abilities-section*/
+	#ability .nav>li>a {
+	  padding: 10px 8px;
+	  font-weight: 300;
+	}
+
+	/*twitter-section*/
+	.social-counter {
+	  padding: 80px 50px;
+	  min-height: 501px;
+	}
+
+	/*campaign-section*/
+	.campaign-scoop {
+	   padding: 25px 25px 15px;
+	}
+	.campaign-scoop .start-date {
+	  margin-bottom: 25px;
+	}
+	.countdown-wrapper {
+	  margin-bottom: 10px;
+	}
+	.countdown li {
+	  margin-right: 30px;
+	}
+
+	/*donation-section*/
+	.donation-intro {
+	  padding: 70px 50px 60px 40px;
+	}
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width : 1200px) and (max-width : 1280px) {
+	.timeline>li{
+		margin-bottom: 0;
+	}
+	
+}
+
+
+
+/* Large devices (large desktops, 1920px and up) */
+@media (min-width : 1920px) {
+
+	/*twitter-section*/
+	.twitter-feed .tt-overlay {
+	  padding: 100px 100px 100px 30%;
+	}
+	
+	/*donation-section*/
+	.donation-intro {
+	  padding: 100px 100px 100px 40%;
+	}
+
+}

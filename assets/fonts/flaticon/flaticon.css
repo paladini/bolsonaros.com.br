@@ -1,0 +1,48 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+	font-size: 20px;
+	font-style: normal;
+}.flaticon-businessman20:before {
+	content: "\e000";
+}
+.flaticon-earth206:before {
+	content: "\e001";
+}
+.flaticon-graduate37:before {
+	content: "\e002";
+}
+.flaticon-hand132:before {
+	content: "\e003";
+}
+.flaticon-home166:before {
+	content: "\e004";
+}
+.flaticon-house121:before {
+	content: "\e005";
+}
+.flaticon-lifeline5:before {
+	content: "\e006";
+}
+.flaticon-male75:before {
+	content: "\e007";
+}
+.flaticon-medal47:before {
+	content: "\e008";
+}
+.flaticon-record10:before {
+	content: "\e009";
+}
+.flaticon-share11:before {
+	content: "\e00a";
+}
