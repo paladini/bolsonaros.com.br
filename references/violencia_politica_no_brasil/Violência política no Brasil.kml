@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Violência política no Brasil</name>
+    <description>Mapa da violência da extrema-direita no Brasil. NOTA IMPORTANTE: O mapa inclui casos a partir de 1 de outubro de 2018 e trata-se de um levantamento inicial, sujeito a imprecisões. Ou seja, o conjunto é mais importante que o caso particular; a investigação dos crimes indicados aqui pode e deveria ser feita pelo Ministério Público e pelas polícias federal e civil.</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Camada sem título</name>
+      <Placemark>
+        <name>Salvador: capoeirista morto</name>
+        <description><![CDATA[Mestre Moa do Katendê, artista, capoeira, compositor, músico muito querido, foi assassinado ontem em Salvador, em uma discussão com um apoiador do fascista.<br><br>https://extra.globo.com/casos-de-policia/mestre-de-capoeira-morto-com-12-facadas-apos-dizer-que-votou-no-pt-em-salvador-23139302.html]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -38.3588727,-12.8190623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio de Janeiro: irmã de Marielle é agredida</name>
+        <description>https://www.brasil247.com/pt/247/rio247/371542/Irm%C3%A3-de-Marielle-%C3%A9-agredida-com-a-filha-por-eleitores-de-Bolsonaro.htm</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1803344,-22.9075129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Metrô em SP: relato de uma ameaça</name>
+        <description><![CDATA[Thiago Viana Marques: Hoje eu estava no trem com a Larissa Melo E o Matheus Rodrigues e próximos à nós, tinha um moço mandando áudio no whats e deu pra notar um adesivo de apoio ao Haddad e Manuela na capinha do seu celular. Do lado dele havia um sem noção que DO NADA, DO NADA começou a xingar o garoto, disse que iria quebra-lo, matar, chamou o menino de SODOMITA e disse que ou ele respeitava a família ou apanharia dele ali na hora. O garoto ignorou o cara e continuou enviando seu áudio. O homem sem noção alguma, continuou ameaçando o menino que deu uma resposta e saiu de perto dele.<br><br>Agora eu paro pra pensar que cenas como essa que já começavam a fazer parte do nosso dia a dia só vai aumentar.<br><br>Infelizmente eu não tive a ideia de começar a gravar antes. Mas aí está a ameaça feita pelo cara de laranja!<br><br>Por essas e outras que eu digo: #elenao]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6355345,-23.5485918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Um gay morto no armário e um assassino obcecado por Bolsonaro</name>
+        <description>https://revistaladoa.com.br/2018/10/noticias/um-gay-morto-no-armario-e-um-assassino-obcecado-por-bolsonaro/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2924839,-25.4331025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jornalista é agredida e ameaçada de estupro</name>
+        <description><![CDATA[Uma jornalista que trabalha no Jornal do Commercio de Pernambuco foi agredida e ameaçada de estupro neste domingo (7) de eleição, em Recife.<br><br>A mulher foi atacada por dois homens no momento em que saía do local de votação, no bairro de Campo Grande, na zona norte do Recife. https://www.pragmatismopolitico.com.br/2018/10/jornalista-agredida-ameacada-de-estupro.html]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -34.8890552,-8.0571902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mulher é agredida por eleitores de Bolsonaro após declarar voto em outro candidato em Maceió</name>
+        <description><![CDATA[Uma mulher identificada como Julyana Rezende Ramos Paiva foi agredida com um soco no rosto após declarar voto a um candidato a presidente da República na manhã deste domingo (07), próximo a Escola Municipal Padre Pinho, no bairro de Cruz das Almas, em Maceió.<br><br>https://maceio.7segundos.com.br/noticias/2018/10/07/122410/mulher-e-agredida-por-eleitores-de-bolsonaro-apos-declarar-voto-em-outro-candidato-em-maceio.html]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -35.7130298,-9.6420463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>“É comunista”: jovem veste camiseta vermelha e é agredido por eleitores de Bolsonaro</name>
+        <description><![CDATA[Um jovem foi espancado em Teresina (PI) por simpatizantes do presidenciável Jair Bolsonaro (PSL) por estar vestindo uma camiseta vermelha e ter respondido às agressões verbais que sofreu. O pai do arquiteto postou as imagens em seu Facebook no sábado (6).<br><br>De acordo com o depoimento de Paulo Bezerra, eles agrediram o jovem enquanto gritavam palavras de ordem. No vídeo é possível ouvir alguns falando “é comunista”, como justificativa para as agressões. Os homens que espancam o jovem vestem camisas com o rosto e nome do candidato militar.  https://www.revistaforum.com.br/e-comunista-jovem-veste-camiseta-vermelha-e-e-agredido-por-eleitores-de-bolsonaro/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -42.7716064,-5.0474296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morro da Fumaça: urna destruída a marretadas por eleitor</name>
+        <description>http://g1.globo.com/sc/santa-catarina/jornal-do-almoco/videos/t/edicoes/v/eleitor-destroi-urna-eletronica-no-morro-da-fumaca-presidente-de-mesa-e-preso-em-criciuma/7073316/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2120154,-28.6540002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curitiba: Fascista atropela homem com camisa de Lula em Curitiba
+</name>
+        <description>https://www.causaoperaria.org.br/fascista-atropela-homem-com-camisa-de-lula-em-curitiba/#.W7vjJmJccq9.facebook</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -49.267137,-25.4289541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muniz Ferreira: cachorro morto a tiros</name>
+        <description>https://www.pragmatismopolitico.com.br/2018/10/cachorro-morto-tiros-ato-pro-bolsonaro-bahia.html</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -39.108895,-13.0007202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praça São Salvador: tiros em ato pró-Bolsonaro</name>
+        <description>https://oglobo.globo.com/brasil/ato-pro-bolsonaro-na-praca-sao-salvador-reduto-da-esquerda-na-zona-sul-do-rio-termina-em-confusao-23126162</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.179838,-22.9339083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campina Grande: Motoqueiro pró-Bolsonaro atira pedra em caminhonete</name>
+        <description>https://www.viomundo.com.br/voce-escreve/motoqueiro-pro-bolsonaro-atira-pedra-em-caminhonete-so-porque-tinha-o-adesivo-lulalivre.html</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -35.8808337,-7.2290752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natal: professor de história é ameaçado de morte por pai de aluno</name>
+        <description>https://epoca.globo.com/aula-de-historia-em-natal-terminou-com-um-professor-ameacado-de-morte-por-partidarios-de-bolsonaro-23132882</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -35.200916,-5.7792569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Homofobia: publicitário ameaçado de morte após discussão</name>
+        <description>http://d24am.com/amazonas/policia/em-bo-publicitario-diz-que-foi-ameacado-por-motorista-de-aplicativo-apos-discussao-politica/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -59.9963379,-3.0707579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Laranjeiras: "Sapatas vão morrrer kkk" no banheiro da escola]]></name>
+        <description>https://blogs.oglobo.globo.com/ancelmo/post/amp/um-dia-apos-1-turno-banheiro-feminino-de-colegio-e-pichado-no-rio-sapatas-vao-morrer.html</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1799655,-22.9315834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Botucatu: mulher perseguida e ameaçada por eleitor de Bolsonaro</name>
+        <description>http://midianinja.org/news/relato-perseguida-e-ameacada-por-um-bolsominion/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.4441654,-22.8841808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sé: tentativa de empurrar lésbica empurrada para o vão do metrô</name>
+        <description>https://www.facebook.com/ricardo.zamora.54379/posts/1044314145749397</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -46.630715,-23.5528487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lisboa: Eleitores de Bolsonaro gritam "Sou Fascista"!]]></name>
+        <description>http://emtempo.com.br/cotidiano/123334/video-eleitores-de-bolsonaro-gritam-sou-fascista-em-lisboa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -9.13933659999998,38.7222524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maringá: Agressão contra eleitor em carreata pró-Haddad</name>
+        <description>https://maringapost.com.br/angelorigon/2018/10/06/agressao-durante-a-carreata/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -51.9791849,-23.3476706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UFAM - Aluno atira mesa contra professor</name>
+        <description>https://www.portaldoholanda.com.br/noticia-hoje/professor-da-ufam-e-perseguido-e-agredido-por-aluno-defensor-de-bolsonaro</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -59.9765175,-3.1002521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Itabuna: grupo pró-Bolsonaro incita polícia e ameaça jovens em centro cultural</name>
+        <description>http://revistagambiarra.com.br/site/itabuna-grupo-pro-bolsonaro-incita-policia-e-ameaca-jovens-em-centro-cultural-3/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -39.2833243,-14.7916229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A caminho de Cáceres: ameaça de homicídio contra trans</name>
+        <description><![CDATA[AINDA ESTOU VIVA PARA CONTAR. ATÉ QUANDO?<br>Hoje à tarde, quando vinha dirigindo só, de Cuiabá-MT rumo à casa dos meus pais, fazia um trajeto de quase 250 quilômetros que liga essa capital à cidade de Cáceres. Trajeto esse que atravessa uma linda paisagem de cerrado que ainda resiste à soja e às fazendas de gado. Já fiz esse caminho diversas vezes, desde a minha infância. É um longo caminho onde não há entremeio de cidades. Em algumas paragens que contém lanchonetes e restaurantes, sempre costumamos fazer um lanche e esticar as pernas. Lugares simples, mas limpos e de receptividade sempre agradável (...)<br>https://www.facebook.com/100000484481230/posts/2673016619391128/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -57.6827286,-16.0671623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brasília: livros de direitos humanos rasgados na Biblioteca da UnB</name>
+        <description><![CDATA[Livros que contam a história da "luta por direitos humanos" no Brasil foram rasgados na biblioteca central da Universidade de Brasília (UnB). Segundo um servidor do departamento, ao todo, sete obras foram danificadas. O material será levado para a Polícia Federal.<br><br>O bibliotecário responsável pela reposição do estoque de livros afirmou, nesta quinta-feira (4) ao G1, que os danos "são muito característicos" e foram identificados em, pelo menos, sete exemplares. O funcionário preferiu manter a identidade em sigilo "por medo de ameaças". <br>https://g1.globo.com/df/distrito-federal/noticia/2018/10/04/livros-de-direitos-humanos-sao-rasgados-na-biblioteca-da-unb.ghtml]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8678553,-15.7609491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pampulha, BH: mulher é agredida ao dizer que não votaria em Bolsonaro</name>
+        <description><![CDATA[Uma jovem de 24 anos foi agredida por um homem na Pampulha, em Belo Horizonte, após dizer que não votaria no candidato à Presidência Jair Bolsonaro (PSL). De acordo com o boletim de ocorrência, o caso aconteceu pouco antes das 6h da manhã, na avenida Santa Rosa, no bairro São Luiz, quando a jovem saiu para caminhar. <br><br>https://www.otempo.com.br/cidades/mulher-%C3%A9-agredida-em-bh-ap%C3%B3s-dizer-que-n%C3%A3o-votar%C3%A1-em-bolsonaro-1.2052750]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.9559969,-19.8527226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Universidade Federal do Paraná: bolsonaristas agridem e quase matam estudante na UFPR</name>
+        <description><![CDATA[https://www.brasil247.com/pt/247/sul/371685/Eleitores-de-Bolsonaro-agridem-e-quase-matam-estudante-na-UFPR.htm<br><br>Um estudante da UFPR foi brutalmente agredido nesta terça-feira (9) por apoiadores do candidato da extrema-direita a presidente, Jair Bolsonaro; segundo informações do DCE da UFPR, o estudante sofreu lesões na cabeça causadas por inúmeras garrafas de vidro quebradas pelos agressores; "Além disso, houve depredação à Cada da Estudante Universitária de Curitiba (CEUC), que teve vidros quebrados. A justificativa da agressão foi o uso de um boné do MST pelo estudante", diz o DCE em nota; mais cedo, Bolsonaro lavou as mãos sobre os casos de violência de seus apoiadores e disse "não ter controle" sobre eles.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2617658,-25.4269081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camaragibe: relato de três ameaças por um casal no dia da eleição</name>
+        <description><![CDATA[Pois bem, não demorou muito pra acontecer a primeira de muitas ameaças que recebemos durante o dia, enquanto voltavamos do centro de Camaragibe, após ter votado na Escola Estadual Frei Caneca, um carro com adesivos de Bolsonaro 17, reduzio a velocidade e o motorista gritou: "BOLSONARO VAI ACABAR COM ISSO AI VIU" (...)<br>https://www.facebook.com/RenatoAraujoElapidae/posts/949814571879829]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -34.9812235,-8.0201867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curitiba: atropelado de propósito no bar</name>
+        <description><![CDATA[Um companheiro que estava com a camiseta do Lula e adesivos do Haddad foi atropelado enquanto estava na frente do bar o Torto em momento de lazer. Se não bastasse, após irem tirar satisfação com o motorista fascista, o mesmo insinuou estar armado e ameaçou os demais que acabaram por desistir de prolongar a discussão por medo e permaneceram socorrendo o ferido. As pessoas do carro fugiram em um sandero branco.<br><br>https://www.facebook.com/cwbresiste/posts/2305971289432897?__xts__[0]=68.ARCpKoXGOUOIUB9-i0LDGTSXWUcYOuzaAIdK3DnRWm8E95JTBr_xTH6MFPENgZF_54GCm3oeA2VV01BbBWIbFbG-q7Q9nAouQ2MyZqRgm6M06Wb9yq5IfQaaK9x6j8s-D6QES2Hdss5DhnnA2PktA8dolwJ7F7uaxcwZycA2qN4q3CiNjnOnDA&__tn__=C-R ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2731129,-25.4247754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natal: Médica do RN rasga receita após paciente idoso dizer que votou em Haddad para presidente</name>
+        <description><![CDATA[Uma médica que trabalha em um hospital público de Natal rasgou a receita que tinha acabado de fazer para um paciente idoso, de 72 anos, após ele responder que votou no candidato do PT à Presidência, Fernando Haddad. O caso aconteceu nesta segunda-feira (8), um dia após o primeiro turno das eleições, e foi registrado por meio de boletim de ocorrência na 7ª Delegacia de Polícia de Natal, no bairro das Quintas, Zona Leste da capital. O caso foi confirmado pela própria médica, a infectologista Tereza Dantas, que declarou estar arrependida de sua atitude.<br><br>https://g1.globo.com/rn/rio-grande-do-norte/noticia/2018/10/09/medica-do-rn-rasga-receita-apos-paciente-idoso-dizer-que-votou-em-haddad-para-presidente.ghtml?utm_source=twitter&utm_medium=social&utm_campaign=g1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -35.2260266,-5.7972951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio de Janeiro: xenofobia contra cearense</name>
+        <description><![CDATA[Há 16 anos moradora do Rio, a comerciante Thiane Moura, 34, identificou, pela primeira vez, ter sido vítima direta de xenofobia. Estudante de enfermagem, ela chegava para estagiar em posto de saúde por volta das 8 horas quando cinco mulheres discutiam o resultado das urnas do último domingo, 7.<br><br>"Quando cheguei, uma delas já bem alterada virou e falou: 'É, vocês mesmos. Bando de burro e cabeça achatada que vêm pra cá pro Rio de Janeiro matar a fome de vocês", relata a estudante. "Por que vocês não ficam lá?"<br><br>https://www.opovo.com.br/noticias/brasil/2018/10/no-rj-cearense-e-vitima-de-xingamentos-apos-resultado-das-eleicoes.html]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1868592,-22.9697777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Londrina: tio ameaça professora que "influencia aluno"]]></name>
+        <description><![CDATA["Vou até as últimas consequências com você", diz o tio.<br><br>https://www.facebook.com/photo.php?fbid=2014224768635665&set=a.463369980387826&type=3&theater]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -51.1695824,-23.3044524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>São Paulo: presa, algemada e chutada </name>
+        <description><![CDATA[Escreveu #elenao numa parede.<br><br>https://www.facebook.com/photo.php?fbid=10217473474526689&set=p.10217473474526689&type=3&theater]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -46.4453133,-23.493309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>São Paulo, Pinheiros: psolista ameaçada por eleitor de Bolsonaro</name>
+        <description><![CDATA[(...) <br>Em seguida, ainda segundo o boletim de ocorrência, o homem lhe apontou uma arma de fogo, sem nada dizer. A vítima, que como medida de segurança não teve a identidade revelada no documento policial, conseguiu fotografar a placa do veículo. O carro está registrado em nome de uma empresa de joias. Depois da ameaça, o homem foi embora.<br><br><br>https://oglobo.globo.com/brasil/funcionaria-da-campanha-de-boulos-diz-ter-sido-ameacada-com-arma-por-simpatizante-de-bolsonaro-23022998]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6913228,-23.5618494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>São João de Meriti, RJ: eleitores de Bolsonaro postam foto com armas na urna</name>
+        <description>https://www.revistaforum.com.br/eleitores-de-bolsonaro-postam-foto-com-armas-na-urna-video/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3699377,-22.7907116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>São Bernardo do Campo: pastor perde igreja por votar em Cabo Daciolo</name>
+        <description><![CDATA[Pastor da Igreja Renascer em Cristo foi expulso por declarar voto no presidenciável Cabo Daciolo (Patriota), em vez de apoiar o candidato do PSL à Presidência da República, Jair Bolsonaro, como defendia a direção da instituição religiosa.<br><br>Danilo Bernassi mora em São Bernardo e foi comunicado da decisão na terça-feira. “Jesus foi morto pelo império romano ou seja pela política. Não se pode misturar política com religião”, reclamou o religioso, que colocou foto de Daciolo em perfil pessoal do Twitter, dizendo que votaria no candidato. “Alguém da Igreja Renascer deve ter visto e não gostou da publicação”, comentou.<br><br><br>O pastor contou que costuma conversar com jovens que frequentam a igreja toda a semana. Mas, desta vez, foi chamado pelo bispo Phillip Guimarães (...).<br><br>https://www.dgabc.com.br/Noticia/2955658/pastor-e-expulso-de-igreja-evangelica-de-s-bernardo-por-rejeitar-bolsonaro]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -46.5648481,-23.6898429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indaiatuba, SP: mesário intimidado por PM</name>
+        <description><![CDATA[Um oficial fardado, armado, me perguntando a ÚNICA COISA que eu tenho o direito de não responder pra NINGUÉM no dia de hoje. Ele com farda, com arma, com autoridade, causando um clima constrangedor pra mim e o colega mesário numa sala sem mais ninguém.<br><br>“Ah, eu sou policial, então vocês sabem , né! Bolsonaro ! E vocês, só pra saber?”, pela terceira vez mandando a pergunta direta.<br>Falei “Voto no Ciro …”<br>O Polícia olha pro outro mesário “E você? Pra quem?”<br>O colega mesário olhando pro chão “Eu sou Haddad (…)”<br><br>Mano …https://www.facebook.com/israel.o.santos.79/posts/10216518112882034]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2079557,-23.0881998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio de Janeiro, Praça Floriano: homenagem a Marielle é destruída por canidados do PSL</name>
+        <description><![CDATA[A imagem de dois homens comemorando a destruição de um cartaz que simulava uma placa em homenagem à vereadora Marielle Franco, morta em um ataque brutal em 14 de março passado, no Rio de Janeiro, viralizou nas redes sociais nesta quarta-feira (3/10).<br> <br>O jovens que aparecem com a condecoração à parlamentar assassinada rasgada são Daniel Silveira e Rodrigo Amorim, candidatos a vagas na Câmara dos Deputados e à Assembleia Legislativa do Rio de Janeiro (Alerj), respectivamente. Os dois são filiados ao Partido Social Liberal (PSL), mesma sigla do presidenciável Jair Bolsonaro (...)<br><br>https://www.correiobraziliense.com.br/app/noticia/politica/2018/10/03/interna_politica,710027/candidatos-quebram-placa-e-celebram-destruicao-de-homenagem-a-marielle.shtml]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1760081,-22.9107044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Porto Alegre: jovem com camiseta #elenão tem suástica gravada na barriga</name>
+        <description><![CDATA[Uma jovem de 19 anos registrou Boletim de Ocorrência na Polícia relatando ter sido agredida por três homens na rua Baronesa do Gravataí, bairro Cidade Baixa, em Porto Alegre, na noite da última segunda-feira, um dia após o primeiro turno das eleições. A vítima, que não quer falar com a imprensa por medo de sofrer novos ataques, relatou à Polícia Civil que após descer do ônibus, quando ia para casa, teria sido abordada pelos agressores porque estava usando uma camiseta com os dizeres #EleNão, em referência ao candidato Jair Bolsonaro (PSL).<br><br>https://guaiba.com.br/2018/10/10/mulher-de-19-anos-e-agredida-por-usar-camiseta-com-a-expressao-elenao/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2257492,-30.0463497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ananindeua: Vídeo mostra eleitores de Bolsonaro expulsando jovens homossexuais em condomínio no Pará
+</name>
+        <description>Em um vídeo publicado pelo estudante, é possível ver um grupo com aproximadamente 15 pessoas, supostamente moradoras do residencial, cercando os três e gritando palavras ofensivas e homofóbicas como “vão embora calados porque vocês são viados”, “bicha não presta”, “isso não é coisa de família”, além de baterem palmas e citarem várias vezes o nome do candidato à Presidência da República, Jair Bolsonaro (PSL) e gritarem “Amanhã é pra votar 17!”. https://falandoverdades.com.br/video-mostra-eleitores-de-bolsonaro-expulsando-joven-homossexuais-em-condominio-no-para/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.3746372,-1.3650671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buenos Aires: briga na embaixada</name>
+        <description>Cerca de 30 pessoas esperavam pela divulgação dos resultados do lado de fora da embaixada do Brasil na capital argentina, quando um grupo de manifestantes do movimento Barrios de Pie estendeu uma bandeira brasileira amarrada a uma... - Veja mais em https://noticias.uol.com.br/internacional/ultimas-noticias/2018/10/08/em-buenos-aires-brasileiros-e-argentinos-brigam-por-bolsonaro-e-lula-livre.htm</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -58.2401234,-34.1893069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nova Iguaçu: Eleitores de Bolsonaro atacam mulher trans com barra de ferro </name>
+        <description><![CDATA[Julyanna Barbosa, ex-vocalista do grupo, foi agredida em passarela de Nova Iguaçu, após responder a ambulantes que a ameaçaram: ‘Bolsonaro vai ganhar para acabar com os veados. Essa gente lixo tem que morrer’<br><br>https://www.viomundo.com.br/denuncias/eleitores-de-bolsonaro-atacam-mulher-trans-com-barra-de-ferro-e-ameacam-ciclistas-na-avenida-paulista.html]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.4281964,-22.7604054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>São Paulo: no show de Roger Waters, agressões na plateia</name>
+        <description><![CDATA[https://www.facebook.com/photo.php?fbid=10212832683107805&set=a.10212829884197834&type=3&theater<br><br>ver também: https://g1.globo.com/pop-arte/musica/noticia/2018/10/10/roger-waters-e-vaiado-e-aplaudido-em-sao-paulo-depois-de-exibir-elenao-em-show-para-45-mil.ghtml]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -46.6783786,-23.526262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aluno que arremessou carteira em professor agride verbalmente outro docente </name>
+        <description>Prof. Paulo Monte foi agredido e ofendido moralmente em sala de aula pelo mesmo aluno que jogou mesa em outro professor</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -56.7485789,-2.6540001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campinas: pichações nazistas e xenofóbicas em local turístico  </name>
+        <description><![CDATA[Um imóvel e um poste localizado próximos à Lagoa do Taquaral, um dos pontos turísticos da cidade, foram pichados com símbolos nazistas e frases de conteúdo racista, xenofóbico e de apologia ao hooliganismo. Uma das frases é direcionada a imigrantes haitianos: "back to haiti". <br><br>https://g1.globo.com/sp/campinas-regiao/noticia/2018/10/06/imovel-e-poste-em-campinas-sao-pichados-com-simbolos-nazistas-e-frases-racistas-e-xenofobicas.ghtml]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.0538446,-22.8761026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brasília: relatos de gritos homofóbicos no Metrô </name>
+        <description><![CDATA["Um amigo, em companhia de uma amiga lésbica, foi hostilizado por várias pessoas dentro de um dos vagões do metrô de Brasília sob gritos e ameaças, entre as quais as que relatou ter escutado foi que 'Bolsonaro vai caçar veado'".]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8892143,-15.8059619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santo André: relatos de violência verbal e discriminação política </name>
+        <description><![CDATA["Solicitei a parada do ônibus público em sp (situação normal, levantar a mão no ponto para o transporte parar e assim subir). Motorista parou o transporte e ficou olhando para mim com a porta ainda fechada, depois de eu ter que praticamente implorar para ele abrir a porta, visto que eu estava no ponto, ele abriu e começou a gritar de maneira extremamente violenta que eu não poderia pegar o ônibus pois tinha 'cara de comunista'" ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -46.5436003,-23.6742228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
