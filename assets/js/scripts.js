@@ -27,7 +27,6 @@ jQuery(function ($) {
     });
 
 
-
     /* ======= Navbar collapse on click ======= */
     $(document).on('click','.navbar-collapse.in',function(e) {
         if( $(e.target).is('a') && $(e.target).attr('class') != 'dropdown-toggle' ) {
@@ -81,21 +80,21 @@ jQuery(function ($) {
 
     /* === Counter === */
 
-    $('.fact-section').on('inview', function(event, visible, visiblePartX, visiblePartY) {
-        if (visible) {
-            $(this).find('.timer').each(function () {
-                var $this = $(this);
-                $({ Counter: 0 }).animate({ Counter: $this.text() }, {
-                    duration: 2000,
-                    easing: 'swing',
-                    step: function () {
-                        $this.text(Math.ceil(this.Counter));
-                    }
-                });
-            });
-            $(this).off('inview');
-        }
-    });
+    // $('.fact-section').on('inview', function(event, visible, visiblePartX, visiblePartY) {
+    //     if (visible) {
+    //         $(this).find('.timer').each(function () {
+    //             var $this = $(this);
+    //             $({ Counter: 0 }).animate({ Counter: $this.text() }, {
+    //                 duration: 2000,
+    //                 easing: 'swing',
+    //                 step: function () {
+    //                     $this.text(Math.ceil(this.Counter));
+    //                 }
+    //             });
+    //         });
+    //         $(this).off('inview');
+    //     }
+    // });
 
 
 
