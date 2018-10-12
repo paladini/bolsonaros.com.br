@@ -441,11 +441,27 @@ Jovem com camisa "Ele Não" é agredida em Porto Alegre e marcada com suástica<
           $('#value-outros .timer-custom').data("contagem",outros);
 
           $('#value-mortos-min .timer-custom').data("contagem",mortos);
-          $('#value-ataques-min .timer-custom').data("contagem",mortos);
-          $('#value-ameacas-min .timer-custom').data("contagem",mortos);
-          $('#value-outros-min .timer-custom').data("contagem",mortos);
+          $('#value-ataques-min .timer-custom').data("contagem",ataques);
+          $('#value-ameacas-min .timer-custom').data("contagem",ameacas);
+          $('#value-outros-min .timer-custom').data("contagem",outros);
 
           $('.home-section').on('inview', function(event, visible, visiblePartX, visiblePartY) {
+            if (visible) {
+              $(this).find('.timer').each(function () {
+                var $this = $(this);
+                $({ Counter: 0 }).animate({ Counter: $(this).data('contagem') }, { // $this.text() }, {
+                    duration: 2000,
+                    easing: 'swing',
+                    step: function () {
+                        $this.text(Math.ceil(this.Counter));
+                    }
+                });
+              });
+              $(this).off('inview');
+            }
+          });
+
+          $('.fact-section').on('inview', function(event, visible, visiblePartX, visiblePartY) {
             if (visible) {
               $(this).find('.timer').each(function () {
                 var $this = $(this);
