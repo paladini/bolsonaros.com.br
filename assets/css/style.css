@@ -426,7 +426,9 @@ hr::after {
 }
 
 .home-section {
-	background: url(../../assets/images/slider/slide-1.jpg) no-repeat center center #0A0A0A;
+	/*background: url(../../assets/images/slider/slide-1.jpg) no-repeat center center #0A0A0A;*/
+	background: url(../../assets/images/parallax-bg/counter-bg.jpg) no-repeat center center #0A0A0A;
+	
 	background-size: cover;
 	position: relative;
 }
@@ -912,11 +914,13 @@ display: block;
 
 .fact-section {
 	background: url(../../assets/images/parallax-bg/counter-bg.jpg) center center no-repeat #000;
-	background-size: cover;
+	/*background-size: cover;*/
+	background-size: auto;
 }
 .fact-overlay {
 	background-color: rgba(0, 0, 0, 0.7);
-	padding: 100px 0;
+	/*padding: 100px 0;*/
+	padding: 100px auto;
 }
 .counter-wrapper {}
 @media only screen and (max-width : 767px) {
@@ -2325,7 +2329,7 @@ display: block;
     top: 65%;
 }
 
-
+/* =-=-=-=-=-=-= Animação Cinza para Colorido =-=-=-=-=-=-= */
 .cinza-animacao:hover {
   -webkit-filter: grayscale(0%);
   -webkit-transition: .5s ease-in-out;
@@ -2342,4 +2346,13 @@ display: block;
   -moz-transition: .5s ease-in-out;
   -o-filter: grayscale(100%); 
   -o-transition: .5s ease-in-out;
+}
+
+/* =-=-=-=-=-=-= Seção de Estatísticas =-=-=-=-=-=-= */
+.estatisticas {
+	background: rgba(0, 0, 0, 0.7);
+}
+
+.estatisticas .description {
+	margin-bottom: 35px;
 }
